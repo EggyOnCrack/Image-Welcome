@@ -1,7 +1,7 @@
 {
-    "token":"token",
-    "PREFIX":"#",
-    "unicolor":"#8015EA",
-    "imageLink":"https://cdn.discordapp.com/attachments/754486041494159440/776295051210129408/photo-1523821741446-edb2b68bb7a0.png",
-    "channel":"765245453226737734"
+    "token":"NzkxNTc1MDk0NTU1MTgxMDc2.X-RJwQ.pcSlxD9cE2DhXBSQrNbd3PCBX_I",
+    "prefix":"c!",
+    "universalColor" : "#af9c51",
+    "imageLink" : "https://cdn.discordapp.com/attachments/774922976428032020/791594080945045524/nAAAgAElEQVQAAQIECBAgQIAAAQIECBAgQMABbAMECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBCYCDiAJ0WKQYAAAQIECBA.png",
+    "yellowColor" : "#af9c51"
 }
